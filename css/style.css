@@ -1,0 +1,16 @@
+
+
+@import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
+@import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+
+.feature-icon{
+    width: 3rem;
+    height: 3rem;
+}
+
+@media (max-width: 576px) {
+    .main-img{
+        width: 100%;
+        height: auto;
+    }
+}
